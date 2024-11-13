@@ -1,8 +1,14 @@
-# Hell's Guide do Hydra
+## Hell's Guide do Hydra
 
 Um fork do Guia para o Hydra Launcher em constante atualização
 
 Fork mantido por: **Hell**
+
+## ✔️ Minha fonte para ser utilizada no Hydra:
+
+1.  https://helldebrid.pages.dev/fontehell.json
+2.  [Como adicionar a fonte](/guides/14.md)
+3.  Linktree para fazer pedidos de games: https://linktr.ee/hellcathz
 
 ## 🔧 Componentes necessários
 
@@ -30,6 +36,7 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 11. [Por que meu jogo está travado em 0bp/s na velocidade de Download?](/guides/11.md)
 12. [Como alterar a língua dos games que estão em RUSSO/INGLÊS para o Português(BR)](/guides/12.md)
 13. [Como criar uma conta Local no Windows para resolver erros em games](/guides/13.md)
+14. [Como adicionar a minha fonte (HellDebrid)](/guides/14.md)
 
 
 ## ❌ Índice de erros
