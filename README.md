@@ -27,6 +27,7 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 8. [Como extrair jogos com múltiplas partes?](./guides/8.md)
 9. [Como reaplicar o crack de jogos ONLINEFIX quando perdidos por conta de exclusão (Anti-Vírus)?](.guides/9.md)
 10. [Por que meu jogo não está abrindo? (Em casos de Windows 11, versão 24H2)](.guides/10.md)
+11. [Por que meu jogo está travado em 0bp/s na velocidade de Download?](guides/11.md)
 
 
 ## ❌ Índice de erros
