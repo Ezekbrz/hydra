@@ -29,6 +29,7 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 10. [Por que meu jogo não está abrindo? (Em casos de Windows 11, versão 24H2)](.guides/10.md)
 11. [Por que meu jogo está travado em 0bp/s na velocidade de Download?](guides/11.md)
 12. [Como alterar a língua dos games que estão em RUSSO/INGLÊS para o Português(BR)](guides/12.md)
+13. [Como criar uma conta Local no Windows para resolver erros em games](guides/13.md)
 
 
 ## ❌ Índice de erros
