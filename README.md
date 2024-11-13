@@ -1,4 +1,4 @@
-# Guia para o Hydra Launcher
+# Hell's Guide do Hydra
 
 Um fork do Guia para o Hydra Launcher em constante atualização
 
@@ -52,3 +52,4 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 17. [ISDone.dll - An error occurred while unpacking: Unable to write data to disk! Unarc.dll returned an error code: -11](./errors/17.md)
 17. [Erro do sistema - A execução de código não pode continuar porque MSVCR100.dll/MSVCR110.dll/MSVCR120.dll/MSVCR140.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](./errors/18.md) 
 18. [Erro de Pastas de Arquivo Comprimido - O Windows não consegue abrir a pasta. O suporte para o arquivo encriptado "..." está atualmente indisponível.](./errors/19.md)
+19. [Erro do RED DEAD REDEMPTION 2 - ATIVAÇÃO NECESSÁRIA](./errors/20.md)
