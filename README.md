@@ -1,6 +1,6 @@
 # Guia para o Hydra Launcher
 
-Um guia completo de autoajuda para erros comuns entre os jogos baixados pelo Hydra Launcher.
+Um fork do Guia para o Hydra Launcher em constante atualização
 
 Fork mantido por: **Hell**
 
@@ -19,7 +19,7 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 
 1. [Como instalar o Hydra Launcher?](./guides/1.md)
 2. [Como resolver os jogos "Sem downloads disponíveis?"](./guides/2.md)
-3. [Meu jogo está em russo. Como posso trocar o idioma?](./guides/3.md)
+3. [Como posso trocar o idioma em jogos baixados da fonte ONLINEFIX?](./guides/3.md)
 4. [O jogo pede uma senha de extração. Qual é a senha?](./guides/4.md)
 5. [Como restaurar arquivos excluídos pelo Windows Defender?](./guides/5.md)
 6. [Como instalar o Microsoft Gaming Services?](./guides/6.md)
@@ -28,6 +28,7 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 9. [Como reaplicar o crack de jogos ONLINEFIX quando perdidos por conta de exclusão (Anti-Vírus)?](.guides/9.md)
 10. [Por que meu jogo não está abrindo? (Em casos de Windows 11, versão 24H2)](.guides/10.md)
 11. [Por que meu jogo está travado em 0bp/s na velocidade de Download?](guides/11.md)
+12. [Como alterar a língua dos games que estão em RUSSO/INGLÊS para o Português(BR)](guides/12.md)
 
 
 ## ❌ Índice de erros
