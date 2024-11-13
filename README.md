@@ -2,7 +2,7 @@
 
 Um guia completo de autoajuda para erros comuns entre os jogos baixados pelo Hydra Launcher.
 
-Fork mantido por: Hell
+Fork mantido por: **Hell**
 
 ## 🔧 Componentes necessários
 
@@ -14,7 +14,6 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 - [.NET Framework 4.0](./CommonRedist/dotNetFx40_Full_setup.exe)
 - [XNA Framework](./CommonRedist/xnafx40_redist.msi)
 - [Steam](https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe)
-- Pacote AIO ([64 bit](./CommonRedist/VisualCppRedist_AIO_x86_x64.exe))
 
 ## 📚 Índice de guias
 
@@ -27,6 +26,7 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 7. [Como adicionar uma exclusão no Windows Defender?](./guides/7.md)
 8. [Como extrair jogos com múltiplas partes?](./guides/8.md)
 9. [Como reaplicar o crack de jogos ONLINEFIX quando perdidos por conta de exclusão (Anti-Vírus)?](.guides/9.md)
+10. [Por que meu jogo não está abrindo? (Em casos de Windows 11, versão 24H2)](.guides/10.md)
 
 
 ## ❌ Índice de erros
