@@ -1,6 +1,7 @@
 # Guia para o Hydra Launcher
 
 Um guia completo de autoajuda para erros comuns entre os jogos baixados pelo Hydra Launcher.
+
 Fork mantido por: Hell
 
 ## 🔧 Componentes necessários
@@ -13,7 +14,7 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 - [.NET Framework 4.0](./CommonRedist/dotNetFx40_Full_setup.exe)
 - [XNA Framework](./CommonRedist/xnafx40_redist.msi)
 - [Steam](https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe)
-- Pacote All in One que vai atualizar os Runtimes do Visual C++ [64 bit] (./CommonRedist/VisualCppRedist_AIO_x86_x64.exe)
+- Pacote AIO ([64 bit](./CommonRedist/VisualCppRedist_AIO_x86_x64.exe))
 
 ## 📚 Índice de guias
 
