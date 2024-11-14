@@ -37,6 +37,7 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 12. [Como alterar a língua dos games que estão em RUSSO/INGLÊS para o Português(BR)](/guides/12.md)
 13. [Como criar uma conta Local no Windows para resolver erros em games](/guides/13.md)
 14. [Como adicionar a minha fonte (HellDebrid)](/guides/14.md)
+15. [Como resolver o erro do "SOCIAL CLUB" no RDR2](/guides/15.md)
 
 
 ## ❌ Índice de erros
@@ -61,3 +62,4 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 17. [Erro do sistema - A execução de código não pode continuar porque MSVCR100.dll/MSVCR110.dll/MSVCR120.dll/MSVCR140.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](./errors/18.md) 
 18. [Erro de Pastas de Arquivo Comprimido - O Windows não consegue abrir a pasta. O suporte para o arquivo encriptado "..." está atualmente indisponível.](./errors/19.md)
 19. [Erro do RED DEAD REDEMPTION 2 - ATIVAÇÃO NECESSÁRIA](./errors/20.md)
+20. [Erro do RED DEAD REDEMPTION 2 - ERRO DO SOCIAL CLUB](./errors/21.md)
